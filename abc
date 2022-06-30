@@ -1,1 +1,1 @@
-<nc:rpc xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0">   <nc:edit-config>     <nc:target>       <nc:running/>     </nc:target>     <nc:default-operation>none</nc:default-operation>     <nc:config>       <gnbdu:managed-element xmlns:gnbdu="http://www.samsung.com/global/business/5GvRAN/ns/gnb-du" nc:operation="merge">         <gnbdu:administrative-state>unlocked</gnbdu:administrative-state>       </gnbdu:managed-element>     </nc:config>   </nc:edit-config> </nc:rpc>
+{"Json":1}
